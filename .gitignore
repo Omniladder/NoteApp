@@ -1,0 +1,8 @@
+nodes_modules/
+dist
+dist-*
+package-lock.json
+pnpm-lock.yaml
+builds
+*.log
+*.tmp

@@ -1,0 +1,21 @@
+{
+    "name": "NoteApp",
+    "version": "1.0.0",
+    "description": "Simple Note taking app designed for AWS Deployment",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "workspaces": [
+        "apps/*",
+        "packages/*",
+        "infra"
+    ],
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "packageManager": "pnpm@10.25.0",
+    "devDependencies": {
+        "typescript": "^5.9.3"
+    }
+}
