@@ -1,0 +1,14 @@
+{
+  "name": "@shared-lib/shared-backend",
+  "version": "1.0.0",
+  "description": "Components and stuff I can use on backend",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": [],
+  "author": "Dustin O'Brien",
+  "license": "ISC",
+  "type": "module"
+}
