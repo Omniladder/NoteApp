@@ -9,7 +9,7 @@
     "workspaces": [
         "apps/*",
         "packages/*",
-        "infra"
+        "infra/"
     ],
     "keywords": [],
     "author": "",

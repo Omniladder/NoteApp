@@ -1,1 +1,1 @@
-import "./app-stack.js"
+export * from "./app-stack.js"
