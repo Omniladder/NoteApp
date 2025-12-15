@@ -1,0 +1,21 @@
+- [ ] Create Initial File Structure
+- [ ] Compile the nothing
+- [ ] Connect CDK to AWS Account
+- [ ] Create Empty Stack
+- [ ] Add API Gateway to stacks
+- [ ] Add Lambda to stacks
+- [ ] Connect API to Lambda
+- [ ] Attach Hello World Code to Lambda
+- [ ] Hit the lambda
+- [ ] Create Dynamo DB
+- [ ] Create add Note endpoints
+- [ ] Attach Lambda to DynamoDB
+- [ ] Add Note Data via endpoint
+- [ ] Create second lambda
+- [ ] Add get endpoint from Dynamo DB
+- [ ] Create S3 Buckets
+- [ ] Add Compiled React to the S3
+- [ ] Create proxy lambda
+- [ ] Attach Proxy Lambda to S3
+- [ ] Connect Proxy Lambda to API
+- [ ] Create frontend < Split this task
